@@ -1,15 +1,19 @@
 using Assignment2.Models;
 using Assignment2.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<MyStoreContext>();
-builder.Services.AddSingleton<IOrderRepository,OrderRepository>();
-builder.Services.AddSingleton<IStaffRepository, StaffRepository>();
-builder.Services.AddSingleton<ICategoryRepository, CategoryRepository>();
-builder.Services.AddSingleton<IProductRepository,ProductRepository>();
+builder.Services.AddControllers();
+
+builder.Services.AddDbContext<MyStoreContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection")));
+
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IStaffRepository, StaffRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 var app = builder.Build();
 
@@ -17,15 +21,12 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
 
 app.MapControllerRoute(
