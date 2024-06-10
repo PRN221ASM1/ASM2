@@ -3,72 +3,51 @@
   "WorkspaceRootPath": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\interface\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\interface\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\repositories\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:repositories\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\assignment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:assignment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|e:\\prn221\\project\\git\\asm2\\assignment2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F1F238-0109-4166-A2B3-06AFBBA8B879}|Assignment2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F873A4D-1099-4E43-A47D-5504D40F7E35}|..\\Assignment\\Assignment.csproj|e:\\prn221\\project\\git\\asm2\\assignment\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,129 +68,8 @@
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StaffRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\StaffRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\StaffRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\StaffRepository.cs",
-              "RelativeToolTip": "Repositories\\StaffRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:43:39.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:43:21.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:43:08.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:42:57.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IStaffRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\IStaffRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\interface\\IStaffRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\IStaffRepository.cs",
-              "RelativeToolTip": "Repositories\\interface\\IStaffRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:42:45.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\interface\\IProductRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\interface\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:42:29.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\interface\\IOrderRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\IOrderRepository.cs",
-              "RelativeToolTip": "Repositories\\interface\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:42:24.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\interface\\ICategoryRepository.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Repositories\\interface\\ICategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\interface\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:42:11.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:40:54.498Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -219,100 +77,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Assignment2.csproj",
+              "DocumentIndex": 3,
+              "Title": "Assignment2",
               "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Assignment2.csproj",
               "RelativeDocumentMoniker": "Assignment2.csproj",
               "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Assignment2.csproj",
               "RelativeToolTip": "Assignment2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T07:36:15.523Z",
+              "WhenOpened": "2024-06-10T10:13:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Repositories\\interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Repositories\\interface\\ICategoryRepository.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Repositories\\interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\Assignment\\Repositories\\interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:10:43.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\Assignment\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:10:38.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Program.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Program.cs",
+              "RelativeToolTip": "..\\Assignment\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:04:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:04:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Index.cshtml.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Index.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:02:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Index.cshtml",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Index.cshtml",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:02:05.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Delete.cshtml.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:02:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Delete.cshtml",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:02:04.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Staff.cs",
-              "RelativeDocumentMoniker": "Models\\Staff.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Staff.cs",
-              "RelativeToolTip": "Models\\Staff.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Details.cshtml.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:35:30.133Z"
+              "WhenOpened": "2024-06-10T10:02:04.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Details.cshtml",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Details.cshtml",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:02:04.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Edit.cshtml.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:35:23.071Z"
+              "WhenOpened": "2024-06-10T10:02:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Edit.cshtml",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:02:04.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "Models\\OrderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Create.cshtml.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:35:16.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:35:11.271Z"
+              "WhenOpened": "2024-06-10T10:02:01.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MyStoreContext.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\MyStoreContext.cs",
-              "RelativeDocumentMoniker": "Models\\MyStoreContext.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\MyStoreContext.cs",
-              "RelativeToolTip": "Models\\MyStoreContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:35:06.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:34:41.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment2\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:33:13.441Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Assignment\\Pages\\Orders\\Create.cshtml",
+              "ToolTip": "E:\\PRN221\\project\\git\\ASM2\\Assignment\\Pages\\Orders\\Create.cshtml",
+              "RelativeToolTip": "..\\Assignment\\Pages\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:01:59.879Z",
+              "EditorCaption": ""
             }
           ]
         }
